@@ -1,7 +1,7 @@
 Преподаватель: Павлова Анастасия Николаевна
 # МДК. Проектирование и дизайн информационных систем
 ---
-1. [[Engineering_and_design_IS_(1)]]
+1. [Engineering_and_design_IS_(1)](Engineering_and_design_IS_(1).md)
 ---
 # Контакты:
 WatsApp - 89272317038
