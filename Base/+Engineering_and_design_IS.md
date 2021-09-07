@@ -9,6 +9,6 @@ WatsApp - 89272317038
 
 ---
 # Ссылки:
-[Учебный курс (academia-moscow.ru)](https://elearning.academia-moscow.ru/shellserver?id=2211&module_id=791328#791328)
+[Авторизация (academia-moscow.ru)](https://elearning.academia-moscow.ru/login/)
 %%вставить ссылку на учебник%%
 
