@@ -2,6 +2,7 @@
 # МДК. Проектирование и дизайн информационных систем
 ---
 1. [Engineering_and_design_IS_(1)](Engineering_and_design_IS_(1).md)
+2. [Engineering_and_design_IS_(2)](Engineering_and_design_IS_(2).md)
 ---
 # Контакты:
 WatsApp - 89272317038
