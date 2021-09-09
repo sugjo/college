@@ -15,5 +15,3 @@
 - [Moodle](https://moodle.ukrtb.ru/)
 - [Расписание](https://study.ukrtb.ru/rasp)
 - [Сайт колледжа](https://ukrtb.ru/)
-
-![](Files/Pasted%20image%2020210909213117.png)
