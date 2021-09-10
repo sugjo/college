@@ -3,15 +3,15 @@
 # Porgramming Languages
 ---
 
-The classifite low lvl and hight lvl
-
-
+The classifite 
+ - low lvl
+ - hight lvl
 
 ---
 
 ##    #homework 
 
 - [ ]  Сделано
-	- [ ] 
+	- [ ] Презентация JS на Shower
 
 _Закреп:_
