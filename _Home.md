@@ -11,7 +11,7 @@
 
 ## Ссылки
 
+- [Расписание](https://study.ukrtb.ru/rasp)
 - [[$Homework | Homework]]
 - [Moodle](https://moodle.ukrtb.ru/)
-- [Расписание](https://study.ukrtb.ru/rasp)
 - [Сайт колледжа](https://ukrtb.ru/)
