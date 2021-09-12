@@ -10,8 +10,6 @@
 ---
 ## Ссылки
 
-test
-
 - [Расписание](https://study.ukrtb.ru/rasp)
 - [[$Homework | Homework]]
 - [Moodle](https://moodle.ukrtb.ru/)
