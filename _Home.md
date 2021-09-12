@@ -8,7 +8,7 @@
 - [Менеджмент в профессиональной деятельности](Base/+Menagement.md)
 - [Философия](Base/+Philosophy.md)
 ---
-test
+
 ## Ссылки
 
 - [Расписание](https://study.ukrtb.ru/rasp)
