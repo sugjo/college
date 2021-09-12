@@ -11,5 +11,5 @@ But I passed a demo exam well
 
 ##    #homework 
 
-- [ ]  Сделано
+- [x]  Сделано
 	- [ ]  повторить прошлогодний конспект
