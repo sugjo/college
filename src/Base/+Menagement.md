@@ -1,5 +1,5 @@
 Преподаватель: Артамонова Ольга Анатольевна
 # Менеджмент в профессиональной деятельности
 ---
-1. [Menagement(1)](Menagement(1).md)
-2. [Menagement(2)](Menagement(2).md)
+1. [Management(1)](Menagement(1).md)
+2. [Management(2)](Menagement(2).md)

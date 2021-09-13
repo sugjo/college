@@ -11,7 +11,7 @@ WatsApp - 89272317038
 
 ---
 # Ссылки:
-[Авторизация (academia-moscow.ru)](https://elearning.academia-moscow.ru/login/)
-https://drive.google.com/drive/folders/10g2cXR-e4qvtd1q8FQ7yPtyjli2-VLD5?usp=sharing
+[книга](https://elearning.academia-moscow.ru/login/)
+[диск](https://drive.google.com/drive/folders/10g2cXR-e4qvtd1q8FQ7yPtyjli2-VLD5?usp=sharing)
 
 

@@ -1,11 +1,11 @@
 *2021-09-10*
 
-# Porgramming Languages
+# Programming Languages
 ---
 
-The classifite 
- - low lvl
- - hight lvl
+The classified 
+ - low level
+ - high level
 
 ---
 

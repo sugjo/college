@@ -1,0 +1,23 @@
+{
+  "name": "college",
+  "version": "1.0.0",
+  "description": "my collage abstract",
+  "main": "index.js",
+  "scripts": {
+    "yaspeller": "yaspeller .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sugjo/college.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sugjo/college/issues"
+  },
+  "homepage": "https://github.com/Sugjo/college#readme",
+  "devDependencies": {
+    "yaspeller": "^7.0.0"
+  }
+}
