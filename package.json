@@ -4,7 +4,7 @@
   "description": "my collage abstract",
   "main": "index.js",
   "scripts": {
-    "yaspeller": "yaspeller ."
+    "test": "yaspeller ."
   },
   "repository": {
     "type": "git",
