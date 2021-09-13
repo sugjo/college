@@ -2,4 +2,4 @@
 # Менеджмент в профессиональной деятельности
 ---
 1. [Menagement(1)](Menagement(1).md)
-2. [[Menagement_hw(1)]]
+2. [Menagement(2)](Menagement(2).md)
