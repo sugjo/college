@@ -8,13 +8,13 @@ on:
 
 jobs:
   lint:
-    runs-on: ubuntu-lastest
-    starategy:
+    runs-on: ubuntu-latest
+    strategy:
       matrix:
         node-version: [16.x]
-    seeps:
-      - users: actions/sheckout@v2
-      - users: actions/setup-node@v1
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
       - run: npm ci
