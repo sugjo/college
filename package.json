@@ -4,8 +4,7 @@
   "description": "my collage abstract",
   "main": "index.js",
   "scripts": {
-    "yaspeller": "yaspeller .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "yaspeller": "yaspeller ."
   },
   "repository": {
     "type": "git",
