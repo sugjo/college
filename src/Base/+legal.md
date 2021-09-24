@@ -1,5 +1,6 @@
 Преподаватель: Носков Владимир Витальевич
+Тэг: #право  
 # Правовое обеспечение профессиональной деятельности
 ---
-1. [Legal_support(1)](Legal_support(1).md)
-2. [Legal_support(2)](Legal_support(2).md)
+1. [legal(1)](legal(1).md)
+2. [legal(2)](legal(2).md)

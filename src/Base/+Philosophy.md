@@ -1,8 +1,9 @@
 Преподаватель: Ширгазина Эльза Рифовна
+Тэг: #философия
 # Основы философии
 ---
-1. [Philosophy(1)](Philosophy(1).md)
-2. [Philosophy(2)](Philosophy(2).md)
+1. [philosophy(1)](philosophy(1).md)
+2. [philosophy(2)](philosophy(2).md)
 
 ---
 # Ссылки:
