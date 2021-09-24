@@ -24,7 +24,7 @@
       {
         "id": "b7781b4b671e37fc",
         "type": "tabs",
-        "dimension": 20.440881763527052,
+        "dimension": 38.095238095238095,
         "children": [
           {
             "id": "8b64791ec485ec21",
@@ -39,7 +39,7 @@
       {
         "id": "2ab21168c001f62a",
         "type": "tabs",
-        "dimension": 79.55911823647294,
+        "dimension": 61.904761904761905,
         "children": [
           {
             "id": "976ad7897349a4c9",
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#философия",
+                "query": "tag:#разработка",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
