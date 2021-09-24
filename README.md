@@ -1,2 +1,2 @@
-Мои конспекты
-[Home](./src/_Home.md)
+База моих конспектов obsidian.md
+[скачать obsidian.md](https://obsidian.md/)
