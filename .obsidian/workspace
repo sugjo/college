@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "0ae115ae7c2cae6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "703c692d187aeb9a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_home.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12a5730b2fe98806",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7781b4b671e37fc",
+        "type": "tabs",
+        "dimension": 20.440881763527052,
+        "children": [
+          {
+            "id": "8b64791ec485ec21",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "2ab21168c001f62a",
+        "type": "tabs",
+        "dimension": 79.55911823647294,
+        "children": [
+          {
+            "id": "976ad7897349a4c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "64b0b4e35097ab11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#философия",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a783873f3ada677c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b409bfd011eda203",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cac571ecd488dc0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0214552885750d60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "504312c3ed3fe57b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_home.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "703c692d187aeb9a",
+  "lastOpenFiles": [
+    "_home.md",
+    "Files/Pasted image 20210924172819.png",
+    "Files/Pasted image 20210913191134.png",
+    "Files/Pasted image 20210913191000.png",
+    "Files/Pasted image 20210913184555.png",
+    "Files/Pasted image 20210913181940.png",
+    "Files/Pasted image 20210913181810.png",
+    "Files/Pasted image 20210913181617.png",
+    "Files/Pasted image 20210913140511.png",
+    "Files/Pasted image 20210913140355.png"
+  ]
+}
