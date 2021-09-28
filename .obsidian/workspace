@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_home.md",
-            "mode": "preview"
+            "file": "Base/+engineering.md",
+            "mode": "source"
           }
         }
       }
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#философия",
+                "query": "tag:#проектирование",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_home.md",
+                "file": "Base/+engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_home.md"
+                "file": "Base/+engineering.md"
               }
             }
           }
@@ -126,15 +126,15 @@
   },
   "active": "703c692d187aeb9a",
   "lastOpenFiles": [
+    "Base/+engineering.md",
+    "Base/engineering(1).md",
     "_home.md",
-    "Files/Pasted image 20210924172819.png",
-    "Files/Pasted image 20210913191134.png",
-    "Files/Pasted image 20210913191000.png",
-    "Files/Pasted image 20210913184555.png",
-    "Files/Pasted image 20210913181940.png",
-    "Files/Pasted image 20210913181810.png",
-    "Files/Pasted image 20210913181617.png",
-    "Files/Pasted image 20210913140511.png",
-    "Files/Pasted image 20210913140355.png"
+    "Base/philosophy(4).md",
+    "Base/philosophy(2).md",
+    "Base/philosophy(3).md",
+    "Base/philosophy(1).md",
+    "README.md",
+    "Files/Pasted image 20210925114346.png",
+    "Files/Pasted image 20210924172819.png"
   ]
 }
