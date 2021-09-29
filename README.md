@@ -1,1 +1,10 @@
 База моих конспектов [obsidian.md](https://obsidian.md/)
+# Предметы:
+- [+develop](+develop)
+- [+engineering](+engineering)
+- [+english](+english)
+- [+legal](+legal)
+- [+menagement](+menagement)
+- [+philosophy](+philosophy)
+- [+standart](+standart)
+- [+Test](+Test)

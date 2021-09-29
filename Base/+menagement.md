@@ -2,5 +2,6 @@
 Тэг: #менеджмент
 # Менеджмент в профессиональной деятельности
 ---
-1. [Management(1)](menagement(1).md)
-2. [Management(2)](menagement(2).md)
+%%path:Management -path:+%%
+- [management(1)](menagement(1).md)
+- [management(2)](menagement(2).md)

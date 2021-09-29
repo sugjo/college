@@ -2,8 +2,10 @@
 Тэг: #философия
 # Основы философии
 ---
-1. [philosophy(1)](philosophy(1).md)
-2. [philosophy(2)](philosophy(2).md)
+%%path:philosophy -path:+%%
+- [philosophy(1)](philosophy(1))
+- [philosophy(2)](philosophy(2))
+- [philosophy(4)](philosophy(4))
 
 ---
 # Ссылки:

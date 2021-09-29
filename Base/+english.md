@@ -2,5 +2,6 @@
 Тэг: #английский
 # Иностранный язык в профессиональной деятельности
 ---
-1. [english(1)](english(1).md)
-2. [english(2)](english(2).md)
+%%path:english -path:+%%
+- [english(1)](english(1).md)
+- [english(2)](english(2).md)

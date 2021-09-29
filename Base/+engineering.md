@@ -2,10 +2,13 @@
 Тэг: #проектирование
 # МДК. Проектирование и дизайн информационных систем
 ---
-1. [engineering(1)](engineering(1).md)
-2. [engineering(2)](engineering(2).md)
-3. [engineering(3)](engineering(3).md)
-4. [engineering(4)](engineering(4).md)
+
+%%path:engineering -path:+%%
+
+- [engineering(1)](engineering(1))
+- [engineering(2)](engineering(2))
+- [engineering(3)](engineering(3))
+- [engineering(4)](engineering(4))
 ---
 # Контакты:
 WatsApp - 89272317038
