@@ -21,7 +21,7 @@
 
 </details>
 
-[K1]: english(1)
-[K2]: english(2)
+[K1]: english(1).md
+[K2]: english(2).md
 
 ---

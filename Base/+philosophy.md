@@ -22,11 +22,11 @@
 
 </details>
 
-[K1]: philosophy(1)
-[K2]: philosophy(2)
-[K3]: philosophy(3)
-[K4]: philosophy(4)
-[K5]: philosophy(5)
+[K1]: philosophy(1).md
+[K2]: philosophy(2).md
+[K3]: philosophy(3).md
+[K4]: philosophy(4).md
+[K5]: philosophy(5).md
 
 ---
 # Ссылки:

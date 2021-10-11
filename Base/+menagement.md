@@ -1,4 +1,4 @@
-Преподаватель: Артамонова Ольга Анатольевна
+.mdПреподаватель: Артамонова Ольга Анатольевна
 Тэг: #менеджмент
 # Менеджмент в профессиональной деятельности
 ---
@@ -22,11 +22,11 @@
 
 </details>
 
-[K1]: menagement(1)
-[K2]: menagement(2)
-[K3]: menagement(3)
-[K4]: menagement(4)
-[K5]: menagement(5)
-[K6]: menagement(6)
+[K1]: menagement(1).md
+[K2]: menagement(2).md
+[K3]: menagement(3).md
+[K4]: menagement(4).md
+[K5]: menagement(5).md
+[K6]: menagement(6).md
 
 ---

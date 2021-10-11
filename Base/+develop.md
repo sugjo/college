@@ -21,15 +21,15 @@
 
 </details>
 
-[K1]: develop(1)
-[K2]: develop(2)
-[K3]: develop(3)
-[K4]: develop(4)
-[K5]: develop(5)
+[K1]: develop(1).md
+[K2]: develop(2).md
+[K3]: develop(3).md
+[K4]: develop(4).md
+[K5]: develop(5).md
 
-[L1]: develop_laba(1)
-[L2-3]: develop_laba(2-3)
-[L4-5]: develop_laba(4-5)
-[L6-7]: develop_laba(6-7)
+[L1]: develop_laba(1).md
+[L2-3]: develop_laba(2-3).md
+[L4-5]: develop_laba(4-5).md
+[L6-7]: develop_laba(6-7).md
 
 ---

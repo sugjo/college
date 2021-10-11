@@ -21,10 +21,10 @@
 
 </details>
 
-[K1]: engineering(1)
-[K2]: engineering(2)
-[K3]: engineering(3)
-[K4]: engineering(4)
+[K1]: engineering(1).md
+[K2]: engineering(2).md
+[K3]: engineering(3).md
+[K4]: engineering(4).md
 
 ---
 # Контакты:
