@@ -3,7 +3,6 @@
 # МДК. Разработка кода информационных систем
 ---
 
-%%path:develop -path:+%%
 <details>
     <summary>Конспекты:</summary>
 
@@ -32,3 +31,5 @@
 [L2-3]: develop_laba(2-3)
 [L4-5]: develop_laba(4-5)
 [L6-7]: develop_laba(6-7)
+
+---
