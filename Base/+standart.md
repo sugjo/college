@@ -4,10 +4,51 @@
 ---
 %%path:standard -path:+%%
 **Казина:**
-- [standard(3)](standard(3))
+
+<details>
+    <summary>Конспекты Казина:</summary>
+
+| №      |        |        |        |        |        |        |        |        |         |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
+| [KK1][]  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  |
+
+</details>
+
+<details>
+    <summary>Лабы Казина:</summary>
+
+| №   |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |     |     |     |     |
+
+</details>
+
+---
 
 **Абрамова:**
-- [standard_laba(2)](standard_laba(2))
-- [standard(1)](standard(1))
-- [standard(2)](standard(2))
-- [standard(2)(homework)](standard(2)(homework))
+
+<details>
+    <summary>Конспекты Абрамова:</summary>
+
+| №      |        |        |        |        |        |        |        |        |         |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
+| [KA1][]  | [KA2][]  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  |
+
+</details>
+
+<details>
+    <summary>Лабы Абрамова:</summary>
+
+| №   |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  [LA1]   |  [LA2]   |     |     |     |     |     |     |     |     |
+
+</details>
+
+[KK1]: standard_ka(1)
+
+[KA1]: standard(1)
+[KA2]: standard(2)
+
+[LA1]: standard_laba(1)
+[LA2]: standard_laba(2)

@@ -3,10 +3,30 @@
 # Основы философии
 ---
 %%path:philosophy -path:+%%
-- [philosophy(1)](philosophy(1))
-- [philosophy(2)](philosophy(2))
-- [philosophy(4)](philosophy(4))
-- [philosophy(5)](philosophy(5))
+
+<details>
+    <summary>Конспекты:</summary>
+
+| №      |        |        |        |        |        |        |        |        |         |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
+| [K1][]  | [K2][]  | [K3][]  | [K4][]  | [K5][]  | 6  | 7  | 8  | 9  | 10  |
+
+</details>
+
+<details>
+    <summary>Лабы:</summary>
+
+| №   |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |     |     |     |     |
+
+</details>
+
+[K1]: philosophy(1)
+[K2]: philosophy(2)
+[K3]: philosophy(3)
+[K4]: philosophy(4)
+[K5]: philosophy(5)
 
 ---
 # Ссылки:

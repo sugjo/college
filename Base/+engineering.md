@@ -3,12 +3,29 @@
 # МДК. Проектирование и дизайн информационных систем
 ---
 
-%%path:engineering -path:+%%
+<details>
+    <summary>Конспекты:</summary>
 
-- [engineering(1)](engineering(1))
-- [engineering(2)](engineering(2))
-- [engineering(3)](engineering(3))
-- [engineering(4)](engineering(4))
+| №      |        |        |        |        |        |        |        |        |         |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
+| [K1][]  | [K2][]  | [K3][]  | [K4][]  | 5  | 6  | 7  | 8  | 9  | 10  |
+
+</details>
+
+<details>
+    <summary>Лабы:</summary>
+
+| №   |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |     |     |     |     |
+
+</details>
+
+[K1]: engineering(1)
+[K2]: engineering(2)
+[K3]: engineering(3)
+[K4]: engineering(4)
+
 ---
 # Контакты:
 WatsApp - 89272317038

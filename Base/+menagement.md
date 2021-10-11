@@ -3,5 +3,28 @@
 # Менеджмент в профессиональной деятельности
 ---
 %%path:Management -path:+%%
-- [management(1)](menagement(1).md)
-- [management(2)](menagement(2).md)
+
+<details>
+    <summary>Конспекты:</summary>
+
+| №      |        |        |        |        |        |        |        |        |         |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
+| [K1][]  | [K2][]  | [K3][]  | [K4][]  | [K5][]  | [K6][]  | 7  | 8  | 9  | 10  |
+
+</details>
+
+<details>
+    <summary>Лабы:</summary>
+
+| №   |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |     |     |     |     |
+
+</details>
+
+[K1]: menagement(1)
+[K2]: menagement(2)
+[K3]: menagement(3)
+[K4]: menagement(4)
+[K5]: menagement(5)
+[K6]: menagement(6)

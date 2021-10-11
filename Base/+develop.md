@@ -5,31 +5,30 @@
 
 %%path:develop -path:+%%
 <details>
-    <summary>№0–100</summary>
+    <summary>Конспекты:</summary>
 
 | №      |        |        |        |        |        |        |        |        |         |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
-| [1][]  | [2][]  | [3][]  | [4][]  | [5][]  | [6][]  | [7][]  | [8][]  | [9][]  | [10][]  |
+| [K1][]  | [K2][]  | [K3][]  | [K4][]  | [K5][]  | 6  | 7  | 8  | 9  | 10  |
 
 </details>
 
 <details>
-    <summary>№0–100</summary>
+    <summary>Лабы:</summary>
 
-| №      |        |        |        |        |        |        |        |        |         |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
-| [1][]  | [2][]  | [3][]  | [4][]  | [5][]  | [6][]  | [7][]  | [8][]  | [9][]  | [10][]  | 
+| №   |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [L1][] | [L2-3][] | [L4-5][] | [L6-7][] |     |     |     |     |     |     | 
 
 </details>
 
-[1]: develop_laba(1).md
+[K1]: develop(1)
+[K2]: develop(2)
+[K3]: develop(3)
+[K4]: develop(4)
+[K5]: develop(5)
 
-- [develop_laba(1)](develop_laba(1))
-- [develop_laba(2-3)](develop_laba(2-3))
-- [develop_laba(4-5)](develop_laba(4-5))
-- [develop_laba(6-7)](develop_laba(6-7))
-- [develop(1)](develop(1))
-- [develop(2)](develop(2))
-- [develop(3)](develop(3))
-- [develop(4)](develop(4))
-- [develop(5)](develop(5))
+[L1]: develop_laba(1)
+[L2-3]: develop_laba(2-3)
+[L4-5]: develop_laba(4-5)
+[L6-7]: develop_laba(6-7)
