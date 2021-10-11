@@ -1,6 +1,6 @@
 База моих конспектов [obsidian.md](https://obsidian.md/)
 # Предметы:
-- [+develop](base/+develop.md)
+- [+develop](./base/+develop.md)
 - [+engineering](base/+engineering.md)
 - [+english](base/+english.md)
 - [+legal](base/+legal.md)
