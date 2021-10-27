@@ -56,8 +56,27 @@ Console.ReadKey();}}}.
 
 <h5 align="center">Ход работы:</h5>
 
+4. Даны три действительных числа. Найти среднее арифметическое и среднее геометрическое их модулей.
 
+```C#
+Console.WriteLine("Введите первое число:");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("\nВведите второе число:");
+int b = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("\nВведите третье число:");
+int c = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("\nСреднее арифметическое:");
+Console.WriteLine(Convert.ToDouble((a + b + c) / 3)); 
+Console.WriteLine("\nСреднее геометрическое:"); 
+Console.WriteLine(Convert.ToDouble(Math.Pow((a * b * c), 1 / 3)));
+Console.ReadLine();
+```
 
 <h5 align="center">Контрольные вопросы:</h5>
 
-
+1. Что такое линейный алгоритм?
+	- Линейный алгоритм (следование) образуется командами, выполняемыми однократно в той последовательности, в которой они записаны.
+2. Перечислите математические операции и их обозначения.
+	![](../Files/Pasted%20image%2020211023190322.png)
+3. Перечислите математические функции и их обозначения.
+	![](../Files/image8.png)
