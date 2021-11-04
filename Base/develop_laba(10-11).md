@@ -66,7 +66,8 @@ Console.WriteLine("\nСреднее геометрическое:");
 Console.WriteLine(Convert.ToDouble(Math.Pow((a * b * c), 1 / 3)));
 Console.ReadLine();
 ```
-
+выполнение:
+![](../Files/Pasted%20image%2020211104175658.png)
 <h5 align="center">Контрольные вопросы:</h5>
 
 1. Что такое линейный алгоритм?

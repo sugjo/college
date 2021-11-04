@@ -117,7 +117,8 @@ for (int n = 1; n <= M; n++) res += Convert.ToInt32(Math.Pow(n, n));
 Console.WriteLine($"\nS = {res}");
 Console.ReadLine();
 ```
-
+выполнение:
+![](../Files/Pasted%20image%2020211104175859.png)
 - $S=\sum\limits_{i=1}^{N}|a_i - b_i|$
 	
 ```C#
@@ -134,9 +135,11 @@ for (int i = 0; i < N; i++)
     b[i] = Convert.ToInt32(Console.ReadLine());
 }
 for (int i = 1; i <= N; i++) res += a[i - 1] - b[i - 1];
-Console.WriteLine($"{res}");
+Console.WriteLine($"\nОтвет: {res}");
+Console.ReadKey();
 ```
-	
+выполнение:
+![](../Files/Pasted%20image%2020211104180141.png)
 	
 <h5 align="center">Контрольные вопросы:</h5>
 

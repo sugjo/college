@@ -64,7 +64,8 @@ while (i < n.Length)
 Console.WriteLine(result);
 Console.ReadLine();
 ```
-
+выполнение:
+![](../Files/Pasted%20image%2020211104180413.png)
 <h5 align="center">Контрольные вопросы:</h5>
 
 1. Назначение оператора цикла с предусловием.

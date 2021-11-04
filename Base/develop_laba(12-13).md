@@ -53,7 +53,8 @@ if (x < 0 && y < 0) Console.WriteLine($"{line} III квадранте");
 if (x > 0 && y < 0) Console.WriteLine($"{line} IV квадранте");
 Console.ReadKey();
 ```
-
+выполнение:
+![](../Files/Pasted%20image%2020211104175808.png)
 <h5 align="center">Контрольные вопросы:</h5>
 
 1. Какова общая структура программы, написанной на языке С#?
