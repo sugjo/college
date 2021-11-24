@@ -94,7 +94,114 @@ namespace HanoiTowers
 1. Напишите функции вычисления площадей следующих фигур: квадрат, прямоугольник, треугольник (значения сторон выберите сами)
 2. Создайте рекурсивную функцию, вычисляющую факториал переданного числа
 
+```C#
+static void Main(string[] args)
+{
+    onChoice();
 
+    void onChoice()
+    {
+        Console.WriteLine("Выбирете действие:");
+        Console.WriteLine("0: поиск площади квадрата");
+        Console.WriteLine("1: поиск площади прямоугольника");
+        Console.WriteLine("2: поиск площади треугольника");
+        Console.WriteLine("3: вычисление факториала числа");
+        Console.WriteLine("4: выход");
+        Console.Write("> ");
+        try
+        {
+            int choice = Convert.ToInt32(Console.ReadLine());
+
+            switch (choice)
+            {
+                case 0:
+                    Console.WriteLine("\nплощадь квадрата: " + getSquareArea() + "\n");
+                    break;
+                case 1:
+                    Console.WriteLine("\nплощадь прямоугольника: " + getRectangleArea() + "\n");
+                    break;
+                case 2:
+                    Console.WriteLine("\nплощадь треугольника: " + getTriangleArea() + "\n");
+                    break;
+                case 3:
+                    Console.WriteLine("\nфактриал = " + getFactorial() + "\n");
+                    break;
+                case 4:
+                    System.Environment.Exit(0);
+                    break;
+                default:
+                    Console.WriteLine(); onChoice();
+                    break;
+            }
+        }
+        catch
+        {
+            Console.WriteLine("\nВведите корректное значение\n");
+        }
+    }
+
+    int getSquareArea()
+    {
+        int a = input("a");
+
+        return a * a;
+    }
+
+    int getRectangleArea()
+    {
+        int a = input("a");
+
+        int b = input("b");
+
+        return a * b;
+    }
+
+    double getTriangleArea()
+    {
+        int a = input("a");
+        int b = input("b");
+        int c = input("c");
+
+        if ((a + b <= c) | (a + c <= b) | (b + c <= a) | (b + a <= c)) error("Треугольник не существует");
+        double P = (a + b + c) / 2;
+        return Math.Sqrt(P * (P - a) * (P - b) * (P - c));
+    }
+
+    int getFactorial()
+    {
+        int num = input("факториал");
+
+        int res = 1;
+        for (int i = num; i > 1; i--)
+            res *= i;
+        return res;
+    }
+
+    void error(String message)
+    {
+        Console.WriteLine("\n"+message+"\n");
+        onChoice();
+    }
+
+    int input(String title)
+    {
+        Console.WriteLine("\nВведите " + title);
+        Console.Write("> ");
+        int num = Convert.ToInt32(Console.ReadLine());
+        if (num <= 0) error(title + " не может быть 0 или меньше");
+        return num;
+    }
+    while (true)
+    {
+        onChoice();
+    }
+}
+```
+
+![](../Files/Pasted%20image%2020211124202342.png)
+![](../Files/Pasted%20image%2020211124202400.png)
+![](../Files/Pasted%20image%2020211124202414.png) 
+![](../Files/Pasted%20image%2020211124202435.png)
 
 <h5 align="center">Контрольные вопросы:</h5>
 
