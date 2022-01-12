@@ -6,5 +6,4 @@
 
 
 ---
-
-<% tp.file.title.replace(/\(\d)\/, "") %>
+ 
