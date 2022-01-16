@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "0ae115ae7c2cae6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ace73425f155357",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Economy/L1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12a5730b2fe98806",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7781b4b671e37fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64b0b4e35097ab11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "657df9b8e6b2101c",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276
+  },
+  "right": {
+    "id": "a783873f3ada677c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b409bfd011eda203",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cac571ecd488dc0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/Economy/L1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0214552885750d60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "504312c3ed3fe57b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/Economy/L1.md"
+              }
+            }
+          },
+          {
+            "id": "3f1293682b408ae5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "976ad7897349a4c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b64791ec485ec21",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9ace73425f155357",
+  "lastOpenFiles": [
+    "Base/Economy/L1.md",
+    "Base/Test/L1.md",
+    "Base/English/L1.md",
+    "Base/English/L2.md",
+    "Base/economy(1).md",
+    "Base/+Test.md",
+    "Base/english(1).md",
+    "Base/english(2).md",
+    "Base/physicalE_pr(1).md.md",
+    "Base/test_laba(1).md"
+  ]
+}

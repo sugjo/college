@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "0ae115ae7c2cae6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "637a4ee4b150b8f0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/English_(1).md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "497e31107df3db0c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b10da39b75e89e1b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "83859a867ce7986d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6c9d8f1615250a5b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3fc40e2d1d1ea346",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "457ac70b36c5c1e3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "40ec6d0e6499161c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Base/English_(1).md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "12340de29c48936d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Base/English_(1).md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "637a4ee4b150b8f0",
+  "lastOpenFiles": [
+    "Base/English_(1).md",
+    "Base/+English.md",
+    "_Home.md",
+    "Base/Test_IS(1).md",
+    "Base/+Test_IS.md",
+    "Base/+Code_develop_IS.md",
+    "Base/+Engineering_and_design_IS.md",
+    "Templates/$lesson.md",
+    "Templates/$subject.md",
+    "Templates/$ subject.md"
+  ]
+}

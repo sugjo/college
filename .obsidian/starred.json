@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "00 Колледж",
+      "path": "_home.md"
+    },
+    {
+      "type": "file",
+      "title": "$ Homework",
+      "path": "Base/$homework.md"
+    }
+  ]
+}
