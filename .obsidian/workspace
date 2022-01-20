@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/$laba.md",
+            "file": "Base/Economy/OL1.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/$laba.md",
+                "file": "Base/Economy/OL1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/$laba.md"
+                "file": "Base/Economy/OL1.md"
               }
             }
           },
@@ -136,15 +136,15 @@
   },
   "active": "9ace73425f155357",
   "lastOpenFiles": [
+    "Base/Economy/OL1.md",
+    "Base/Economy/OL3.md",
     "Templates/$laba.md",
+    "Base/Economy/L1.md",
     "Templates/$lesson.md",
     "Templates/$subject.md",
     "Base/Test/Lb1.md",
     "Base/English/L2.md",
     "Base/English/L1.md",
-    "Base/Economy/L1.md",
-    "Base/economy(1).md",
-    "Base/+Test.md",
-    "Base/english(1).md"
+    "Base/economy(1).md"
   ]
 }
